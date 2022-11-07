@@ -1,0 +1,50 @@
+Todo:
+4
+At least 20 more texts
+- Do not copy text from other sites, but be heavly inspired
+- Have top keyword as far up the text as possible. ([DEVICE] cover(s), Cover(s) for [DEVICE] etc.)
+- Required Keywords: Covers for MODEL, MODEL Covers (Singulair and plural). Written at least once.
+- Use as many variations of keywords as possible: Eg. screenprotector for MODEL, MODEL accessories, smartphone, mobile etc.
+- Don't have a bunch of keywords mentioned in a row. Have a lot of "normal" words in between... You have to write naturally.
+- At least 400 words
+- Make words what the content is about in bold with html tags. eg: we have a large selection of <b>[DEVICE] covers</b>. These would be variants of top_kw or it's above headers (h1, h2, h3).
+- Internal linking. These should be 'text rich' where either a top keyword or headers is present in the sentence or variants of these. Provide a link to it's parents pages, import subpages or for user friendly (Are you looking covers for Samsung Galaxy S20 Plus?).
+- All research should be proved with data - Not what you think users are thinking. Do a keyword research!
+- Use variables when possible.
+
+- Available "Static" Variables: 
+-- [BRAND] (Samsung) 
+-- [MODEL] (Galaxy S20) 
+-- [DEVICE] (Samsung Galaxy S20)
+-- [SCREENSIZE] (6.1)
+-- [RELEASEYEAR] (2019) 
+-- [COUNTRY] (Sweden)
+-- [CAMERA] (12)
+-- Do you want others?
+
+- Available "Random" Variables: 
+-- [DEVICETYPE] (Smarphone/mobile/phone etc.) 
+-- [N_SCREENPROTECTOR] (Screen protector/protection film etc. ) / N_ stand for Noun: Write [S_SCREENPROTECTOR] for singular. [P_SCREENPROTECTOR] for plural
+ 
+# Subheadings
+# H2
+Used for: Featured snipppest, Long tailed keywords.
+
+### Inspiration(!)
+- Best screen protector for DEVICE.
+- DEVICE case with card holder
+- Best watchstraps for DEVICE
+
+# H3
+Used for: Subheadings for H2's.
+
+## Smartphone H3 Inspiration(!)
+-- FAQ (Schema)
+-- How to put on a screen protector
+-- How to remove screen protector from DEVICE
+
+## Smartwatch H3 Inspiration(!)
+-- FAQ (Schema)
+-- How to change watchstrap on DEVICE
+
+-----------------------------------------------------------------
